@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNoteApp</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="judul">Judul Catatan</string>
+    <string name="deskripsi">Isi Catatan</string>
+    <string name="hint_searchBar">Cari Judul Catatan...</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="delete_confirmation">Apakah Catatan Ini Akan Dihapus?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
