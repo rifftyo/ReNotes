@@ -1,4 +1,4 @@
-# ReNotes V 1.0
+# ReNotes
 ReNotes is a simple and minimalist note-taking application designed to help users easily organize and manage their notes. This application allows users to create, save, search, and manage their notes efficiently, whether for personal or professional purposes.
 
 ## App View
