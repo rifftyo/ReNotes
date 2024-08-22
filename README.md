@@ -13,7 +13,7 @@ ReNotes is a simple and minimalist note-taking application designed to help user
 - **Search**: Find notes based on keywords.
 - **Dark Mode**: Choose between light and dark themes for comfortable use. (Upcoming Features).
 
-## Tool
+## Tools
 - ViewModel
 - LiveData
 - KSP
